@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GPU-primes", "GPU-primes\GPU-primes.vcxproj", "{57FE15A8-9EE2-4806-9246-FB6D88489529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57FE15A8-9EE2-4806-9246-FB6D88489529}.Debug|x64.ActiveCfg = Debug|x64
+		{57FE15A8-9EE2-4806-9246-FB6D88489529}.Debug|x64.Build.0 = Debug|x64
+		{57FE15A8-9EE2-4806-9246-FB6D88489529}.Release|x64.ActiveCfg = Release|x64
+		{57FE15A8-9EE2-4806-9246-FB6D88489529}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA2900BB-B6E9-463B-8994-6C37CA47B60D}
+	EndGlobalSection
+EndGlobal
